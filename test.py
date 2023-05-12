@@ -6,6 +6,7 @@ import os
 import requests
 from bs4 import BeautifulSoup
 
+# 如果此处填入url，则不从剪贴板取值
 url = ""
 
 global cookie
